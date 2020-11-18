@@ -1,2 +1,4 @@
-package day1_Practice;public class Q17 {
+package day1_Practice;
+
+public class Q17 {
 }
