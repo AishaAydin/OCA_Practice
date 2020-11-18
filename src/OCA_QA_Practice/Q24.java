@@ -1,6 +1,4 @@
-package day1_Practice;
-
-import java.util.Arrays;
+package OCA_QA_Practice;
 
 public class Q24 {
     public static void main(String[] args) {

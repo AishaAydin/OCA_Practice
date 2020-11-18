@@ -1,4 +1,4 @@
-package day1_Practice;
+package OCA_QA_Practice;
 
 import java.util.ArrayList;
 import java.util.Arrays;

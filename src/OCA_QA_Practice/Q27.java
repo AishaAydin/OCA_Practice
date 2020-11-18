@@ -1,6 +1,4 @@
-package day1_Practice;
-
-import java.util.concurrent.Callable;
+package OCA_QA_Practice;
 
 public class Q27 {
 

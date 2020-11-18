@@ -1,4 +1,4 @@
-package day1_Practice;
+package OCA_QA_Practice;
 
 public class Q1 {
     public static void main(String[] args) {

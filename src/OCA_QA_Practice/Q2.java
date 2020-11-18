@@ -1,8 +1,4 @@
-package day1_Practice;
-
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
+package OCA_QA_Practice;
 
 public class Q2 {
     public static void main(String[] args) {
