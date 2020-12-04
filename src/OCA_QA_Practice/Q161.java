@@ -1,0 +1,13 @@
+package OCA_QA_Practice;
+
+public class Q161 {
+    public static void main(String[] args) {
+        Boolean  avalible =true;
+        //String tmAuthor=author,author="MC Donald";
+        Double price =200D;
+        Integer pages =20;
+
+
+
+    }
+}
